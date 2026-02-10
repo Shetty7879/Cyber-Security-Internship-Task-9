@@ -39,5 +39,3 @@ nmap 127.0.0.1
 
 ## Deliverables
 - Network Vulnerability Scanning Report (PDF)
-## Author
-Prajwal S Shetty
